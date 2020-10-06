@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtsqt45dukHIUHb/eYf+pPmIT33hVEEHdo4ns8xYXOp5qZFp4wasNTXjvDnRnxUDxiaDvPE1Hm1NkMM1PwPLAw==",
+  "success": true,
+  "projectFilePath": "E:\\Synesis IT Files\\Learning Period\\UnitTest\\NUnitTest\\NUnitTest\\NUnitTest\\NUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
